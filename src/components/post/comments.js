@@ -55,5 +55,5 @@ Comments.propTypes = {
   docId: PropTypes.string.isRequired,
   comments: PropTypes.array.isRequired,
   posted: PropTypes.number.isRequired,
-  commentInput: PropTypes.object.isRequire
+  commentInput: PropTypes.object.isRequired
 };
