@@ -1,3 +1,14 @@
+# Instagram Clone
+
+This application is an instagram clone that uses React(context, hooks) in the front end, with styling in Tailwind CSS and Firebase for the backend. 
+
+## Made with
+
+React, Firebase, Tailwind CSS
+
+## Demo
+https://instagram-clone-cc494.web.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
